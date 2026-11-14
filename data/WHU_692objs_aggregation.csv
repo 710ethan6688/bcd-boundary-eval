@@ -1,0 +1,7 @@
+﻿object_iou_threshold,same_objects,tolerance_m,aggregation,siam_minus_standard_BF1_pp
+0.75,692,0.5,pooled,-0.09611667740989649
+0.75,692,1.0,pooled,-0.08943851897108557
+0.75,692,2.0,pooled,-0.19041969964976868
+0.75,692,0.5,object_equal,0.4919696590784035
+0.75,692,1.0,object_equal,0.07642119490423412
+0.75,692,2.0,object_equal,-0.007753982195543407
