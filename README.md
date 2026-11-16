@@ -1,8 +1,8 @@
 # When Do Boundary Rankings Change in Building Change Detection?
 
-Official Python verification tools, evaluation scripts, and empirical count records accompanying the paper:
+Official Python verification tools, evaluation scripts, and empirical count records accompanying the manuscript:
 > **"When Do Boundary Rankings Change in Building Change Detection?"**  
-> *IEEE Geoscience and Remote Sensing Letters (GRSL)*  
+> *Under Review* (Submitted to IEEE Geoscience and Remote Sensing Letters)  
 > **Author:** Yunhan Yang (School of Electronics and Communication Engineering, Sun Yat-sen University)
 
 ---
@@ -79,10 +79,10 @@ This exports `fig2_eligibility_aggregation.pdf` and `.png`.
 ## 4. Citation
 
 ```bibtex
-@article{yang2026boundary,
+@unpublished{yang2026boundary,
   title={When Do Boundary Rankings Change in Building Change Detection?},
   author={Yang, Yunhan},
-  journal={IEEE Geoscience and Remote Sensing Letters},
+  note={Under review},
   year={2026}
 }
 ```
