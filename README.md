@@ -2,8 +2,10 @@
 
 Official Python verification tools, evaluation scripts, and empirical count records accompanying the manuscript:
 > **"When Do Boundary Rankings Change in Building Change Detection?"**  
-> *Under Review* (Submitted to IEEE Geoscience and Remote Sensing Letters)  
-> **Author:** Yunhan Yang (School of Electronics and Communication Engineering, Sun Yat-sen University)
+> *Manuscript prepared for submission to IEEE Geoscience and Remote Sensing Letters*  
+> **Authors:** Yunhan Yang$^1$ and Qiman Zheng$^2$  
+> $^1$ School of Electronics and Communication Engineering, Sun Yat-sen University, Shenzhen, China  
+> $^2$ School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China  
 
 ---
 
@@ -81,8 +83,8 @@ This exports `fig2_eligibility_aggregation.pdf` and `.png`.
 ```bibtex
 @unpublished{yang2026boundary,
   title={When Do Boundary Rankings Change in Building Change Detection?},
-  author={Yang, Yunhan},
-  note={Under review},
+  author={Yang, Yunhan and Zheng, Qiman},
+  note={Manuscript prepared for submission},
   year={2026}
 }
 ```
